@@ -27,8 +27,6 @@ Think of **DevOps** as a **teamwork** between **developers** (who build the soft
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738678945955/5bdf983b-455e-4308-992f-ca0964f92220.png align="center")
-
 ## 🔹 **What is Automation, Scaling, and Infrastructure?**
 
 ✅ **Automation 🤖** – Think of it like a **robot** doing the boring stuff for you.
