@@ -9,6 +9,7 @@ tags: 90daysofdevops, 90daysofdevops-chanllenge, 90daysofdevopschallenge
 ---
 
 ## 🚀 **Understanding DevOps**
+![Descriptive Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1738680201377/106be0fd-de97-4c4e-86dc-759220f2ffda.jpeg)
 
 #### 🔹 **What is DevOps?**
 
