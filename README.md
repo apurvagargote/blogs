@@ -1,0 +1,2 @@
+# blogs
+Hashnode blogs repo
