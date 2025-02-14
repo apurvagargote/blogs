@@ -11,6 +11,7 @@ tags: 90daysofdevops, trainwithshubham, 90daysofdevops-chanllenge, 90daysofdevop
 ---
 
 ## 📋 **Challenge Description**
+![Descriptive Alt Text](https://cdn.hashnode.com/res/hashnode/image/upload/v1739381667299/345e9beb-030a-4b89-a4ee-f963fd4f8f36.jpeg)
 
 The task is to write a bash script that:
 
