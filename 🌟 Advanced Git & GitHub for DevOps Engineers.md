@@ -1,5 +1,5 @@
 ---
-title: "🌟 Advanced Git & GitHub for DevOps Engineers"
+title: "🌟Advanced Git & GitHub for DevOps Engineers"
 datePublished: Sun Feb 16 2025 17:15:59 GMT+0000 (Coordinated Universal Time)
 cuid: cm77w1c1e000309jv7vz423r5
 slug: advanced-git-and-github-for-devops-engineers
