@@ -50,7 +50,7 @@ Kubernetes follows a **Master-Worker Node Architecture**, where the **Control Pl
     
 * Ensures workloads run where needed.
     
-* ### 📌 Main Responsibilities
+* ### Main Responsibilities
     
     ✅ **Schedules** workloads on worker nodes.  
     ✅ **Handles** cluster-wide decisions.  
