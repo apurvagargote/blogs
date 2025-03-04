@@ -34,7 +34,8 @@ It helps developers and DevOps teams **run applications efficiently** across mul
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1741086164098/43a49f13-c757-4662-b3bf-40b04f7792fb.png align="center")
+![Kubernetes Architecture](https://camo.githubusercontent.com/d381547c80f03cc120dc61f5d601a2871a941075337bc7ff18ab5232aa3ed403/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a30537564786575356d51794e336168693146563439412e706e67)
+
 
 ---
 
